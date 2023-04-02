@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow devs! 👋, I'm Ahmed Bilal</h1>
+<h1 align="center">Hello fellow devs! 👋, I'm Ahmad Bilal</h1>
 <h3 align="center">A creative Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadbilal55&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadbilal55" /> </p>
