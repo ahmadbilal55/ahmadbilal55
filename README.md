@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadbilal55&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadbilal55" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3ZOIgxz2XW3zBl08mxn9dc&ust=1680560171993000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjg_tGcjP4CFQAAAAAdAAAAABAE">
+
 - 🔭 I’m currently working on excellent service based app that has a potential to revolutionize democracy! **resident**
 
 - 🌱 I’m currently learning **Technical analysis and understanding crypto trends based on trading charts and Fundamental Analysis.**
