@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbilal55&show_icons=true&theme=dark&title_color=874efe&text_color=ffffff&locale=en&layout=compact" alt="ahmadbilal55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadbilal55&show_icons=true&locale=en" alt="ahmadbilal55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbilal55&theme=dark" alt="ahmadbilal55" /></p>
