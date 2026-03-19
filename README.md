@@ -11,15 +11,13 @@
 
 - 🌱 I’m currently learning **Technical analysis and understanding crypto trends based on trading charts and Fundamental Analysis.**
 
-- 👨‍💻 All of my projects are available at [https://ahmadbilal.me](https://ahmadbilal.me)
-
-- 📝 I regularly write articles on [https://medium.com/@ahm4d.bilal](https://medium.com/@ahm4d.bilal)
+- 📝 I also write articles on [https://medium.com/@ahm4d.bilal](https://medium.com/@ahm4d.bilal)
 
 - 💬 Ask me about **Flutter, Dart, Firebase, JavaScript, Solidity, Python, JSONS, Figma, FigJam,**
 
 - 📫 How to reach me **ahm4d.bilal@gmail.com**
 
-- ⚡ Fun fact **I feel a hunger that only fills up by learning new stuff and exploring new technologies!**
+- ⚡ Fun fact **I am always excited to learn new tech!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
